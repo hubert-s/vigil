@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/Vigil-SOC/vigil/compare/v0.1.2...v0.1.3) (2026-05-28)
+
+
+### Bug Fixes
+
+* **release:** check out submodules during image build ([#303](https://github.com/Vigil-SOC/vigil/issues/303)) ([e7af525](https://github.com/Vigil-SOC/vigil/commit/e7af52573dfbc3231f0d1ddc318640576788fc55))
+
 ## [0.1.2](https://github.com/Vigil-SOC/vigil/compare/v0.1.0...v0.1.2) (2026-05-28)
 
 
